@@ -23,7 +23,7 @@ public class BrowserTest {
 		driver.get("https://jqueryui.com/droppable/");
 		
 		System.out.println("Title is = "+driver.getTitle());
-		System.out.println("Testing");
+		System.out.println("Testing !!!!!");
 	}
 
 }
